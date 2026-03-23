@@ -1,6 +1,8 @@
 # 新聞與社群媒體用語調查【備份】
 
-[教育部語文成果入口網](https://language.moe.gov.tw/material/list?u=9fd3b76d-d663-4508-bad1-a61d34e68850)
+[語文成果入口網](https://language.moe.gov.tw/material/list?u=9fd3b76d-d663-4508-bad1-a61d34e68850)
+
+【臺灣教育研究資訊網】
 
 - [x] 2025/10, 解讀媒體字詞：新聞與社群媒體用語調查（112年） https://teric.naer.edu.tw/wSite/ct?ctNode=645&mp=teric_b&xItem=2068770&resCtNode=454
 - [x] 2024/10, 解讀新聞字詞：新聞媒體常用語詞調查（111年） https://teric.naer.edu.tw/wSite/ct?ctNode=645&mp=teric_b&xItem=2067178&resCtNode=645
